@@ -119,7 +119,7 @@ header {
     height: 80%;
     width: 60px;
     border-radius: 50%;
-    background-image: url("img/foto.jpeg");
+    background-image: url("../img/foto.jpeg");
     background-size: cover;     
     background-position: center 55%;
     margin: 0 15px 0 0;
@@ -156,7 +156,7 @@ header {
 .descripcion img {
     height: 25px;
     width: 25px;
-    background-image: url("img/hojeada.png");
+    background-image: url("../img/hojeada.png");
     background-size: cover;
     flex-shrink: 0;
 }
@@ -301,7 +301,7 @@ header {
     animation: monedaReal 5s linear infinite;
     position: relative;
     transform-style: preserve-3d;
-    background-image: url("img/foto.jpeg");
+    background-image: url("../img/foto.jpeg");
     background-size: cover;
     background-position: 40%;
 }
@@ -314,7 +314,7 @@ header {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-image: url("img/foto.jpeg");
+    background-image: url("../img/foto.jpeg");
     background-size: cover;
     background-position: 40%;
     backface-visibility: hidden;
@@ -328,7 +328,7 @@ header {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    background-image: url("img/foto2.jpeg");
+    background-image: url("../img/foto2.jpeg");
     background-size: cover;
     background-position: 40%;
     transform: rotateY(180deg);
